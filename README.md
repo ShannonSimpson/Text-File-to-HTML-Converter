@@ -21,8 +21,8 @@ The filters required (and the letter used to indicate them) are:
 
 H – HTMLize. 
   This filter will make the output into a valid HTML document; 
-  adding “<html><head><title>HTML document</title></head><body>” to the beginning and “</body></html>” to the end 
-  
+  adding "< html>< head>< title>HTML document</ title></ head>< body>” to the beginning and “</ body></ html>” to the end 
+    
 I – Italicize. 
   It is a common convention in text to add emphasis to a word or phrase by surrounding it with asterisks. 
   This filter will read in those asterisks and replace them with HTML italics tags; 
