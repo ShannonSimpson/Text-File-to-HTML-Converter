@@ -24,13 +24,11 @@ H – HTMLize.
   adding “<html><head><title>HTML document</title></head><body>” to the beginning and “</body></html>” to the end 
   
 I – Italicize. 
-
   It is a common convention in text to add emphasis to a word or phrase by surrounding it with asterisks. 
   This filter will read in those asterisks and replace them with HTML italics tags; 
   so that “*this is important*” will be replaced with “<i>this is important</i>”.
   
 B – Bold. 
-
   To use bold instead of italics, filter using B before I.
   so the bold filter will replace asterisk-marked text with HTML bold tags – so “*emphasis*” becomes “<b>emphasis</b>”.
   
