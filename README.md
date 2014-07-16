@@ -5,7 +5,7 @@ Given specific attributes added to text in .txt file, text is converted to .html
 
 written by: Shannon Simpson
 
-Utilzes Polymorphism, Inheritence, Flow control, stream handling, and header and implentation files.
+Utilizes Polymorphism, Inheritence, Flow control, stream handling, and header and implentation files.
 
 The program will be a 3 step process:
 1.) read in a text file (or text directly from the console)
