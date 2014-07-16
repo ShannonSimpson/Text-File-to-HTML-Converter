@@ -1,0 +1,6 @@
+Hi, this is input.
+with *multiple* lines!
+
+_And a Link to Google_ : http://google.com
+
+Hello again.
